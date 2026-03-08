@@ -20,6 +20,6 @@
    - Added a 300ms debounce, eliminating unnecessary API calls
 
 ## Enhancements
-- Implemented pagination in the UI, allowing the user to view all results returned by the API. The user can 
+- Implemented pagination in the UI, allowing the user to view all results returned by the API. The user can navigate between pages of results with buttons at the bottom of the page.
 
 
